@@ -1,5 +1,0 @@
-c:\users\anmols.sw\documents\visual studio 2015\Projects\SumDll\SumDll\bin\Debug\SumDll.dll
-c:\users\anmols.sw\documents\visual studio 2015\Projects\SumDll\SumDll\bin\Debug\SumDll.pdb
-c:\users\anmols.sw\documents\visual studio 2015\Projects\SumDll\SumDll\obj\Debug\SumDll.csprojResolveAssemblyReference.cache
-c:\users\anmols.sw\documents\visual studio 2015\Projects\SumDll\SumDll\obj\Debug\SumDll.dll
-c:\users\anmols.sw\documents\visual studio 2015\Projects\SumDll\SumDll\obj\Debug\SumDll.pdb
